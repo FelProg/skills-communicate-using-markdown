@@ -1,3 +1,6 @@
+<head>
+<link rel="stylesheet" href="style.css">
+</head>
 # The Markup Theory
 
 ### How to start a markup
